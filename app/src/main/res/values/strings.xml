@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">GymShark</string>
+
+    <string name="products_title">Products</string>
+    <string name="view_details">view details</string>
+    <string name="price_unavailable">Price unavailable</string>
+    <string name="out_of_stock">Out of stock</string>
+    <string name="retry">Try again</string>
+    <string name="loading_products">Loading products</string>
+    <string name="empty_products">No products available right now</string>
+    <string name="image_unavailable">Image unavailable</string>
+
+    <string name="error_network">No internet connection. Check your connection and try again.</string>
+    <string name="error_server">Our servers are having trouble. Please try again shortly.</string>
+    <string name="error_parsing">We couldn\'t read the product data.</string>
+    <string name="error_not_found">This product is no longer available.</string>
+    <string name="error_unknown">Something went wrong. Please try again.</string>
+
+
+    <string name="back">Back</string>
+    <string name="sizes">Sizes</string>
+    <string name="description">Description</string>
+    <string name="product_image">%1$s, image %2$d of %3$d</string>
+    <string name="size_in_stock">Size %1$s, in stock</string>
+    <string name="size_out_of_stock">Size %1$s, out of stock</string>
 </resources>
